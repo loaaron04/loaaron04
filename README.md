@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @loaaron04
-- 👀 I’m interested in space
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on working on my coding skills
-- 📫 How to reach me email: s1640526@online.houstonisd.org
+My name is Aaron, I like to play basketball, I like to play video games like COD and NBA2k, and many more. idk what else to put
 
 <!---
 loaaron04/loaaron04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
