@@ -1,4 +1,4 @@
-My name is Aaron, I like to play basketball, I like to play video games like COD and NBA2k, and many more. idk what else to put
+my name is aaron, uhhhh idk what to put 
 
 <!---
 loaaron04/loaaron04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
